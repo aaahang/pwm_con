@@ -1,0 +1,1 @@
+cmd_/home/stoicus/imx6ull/source/tem_con/pwm_con/pwm_con.o := arm-buildroot-linux-gnueabihf-ld -EL    -r -o /home/stoicus/imx6ull/source/tem_con/pwm_con/pwm_con.o /home/stoicus/imx6ull/source/tem_con/pwm_con/con_drv.o 
